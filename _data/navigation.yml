@@ -19,10 +19,10 @@ main:
 # 2022.02.15 sidebar update : simple ver.
 categories:
   - title: "자료구조"
-    url: /categories/categories1/
+    url: /categories/data_structure/
   - title: "php"
-    url: /categories/categories2/
+    url: /categories/php/
   - title: "java"
-    url: /categories/categories3/
+    url: /categories/java/
   - title: "Categories4"
     url: /categories/categories4/
