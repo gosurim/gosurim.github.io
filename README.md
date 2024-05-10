@@ -1,15 +1,6 @@
-## 🦥 `Minimal Mistakes theme customized by choiiis`
-
-📎 **블로그 바로 가기**
-[`https://choiiis.github.io/`](https://choiiis.github.io/)
+## [`https://choiiis.github.io/`](https://choiiis.github.io/)
 
 ---
-
-fork 해서 사용하시기 편하게 변경해서 새로 올려봅니다.  
-편하게 사용하시고, fork 하실 때 `star` 하나만 눌러주세용 :)
-
-fork 후 설정이 필요한 사항들은 아래 내용을 참고하세요!
-
 ### ▪ 블로그 기본 정보 세팅
 
 [_config.yml]
