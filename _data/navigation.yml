@@ -18,11 +18,11 @@ main:
 # sidebar navigation (categories)
 # 2022.02.15 sidebar update : simple ver.
 categories:
-  - title: "Categories1"
+  - title: "자료구조"
     url: /categories/categories1/
-  - title: "Categories2"
+  - title: "php"
     url: /categories/categories2/
-  - title: "Categories3"
+  - title: "java"
     url: /categories/categories3/
   - title: "Categories4"
     url: /categories/categories4/
